@@ -3,10 +3,8 @@ import java.util.Map;
 
 public class IsomorphicString {
     public static void main(String[] args) {
-        String t= "badc";
-        String s = "baba";
-        
-
+        String t= "title";
+        String s = "paper";
 
         System.out.println(isIsomoarphic(t,s));
 
